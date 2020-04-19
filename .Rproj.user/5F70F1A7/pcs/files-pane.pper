@@ -1,0 +1,17 @@
+{
+    "path" : "~/Google Drive/WEBSITE/Website/COVID Resources Website/COVID-site",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 1
+        }
+    ]
+}
