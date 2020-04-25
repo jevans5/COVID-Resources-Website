@@ -6,14 +6,17 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Food"
-      href: Food.html
+    - text: "Commerce"
+      href: Commerce.html  
     - text: "Financial"
       href: Financial.html
-    - text: "Commerce"
-      href: Commerce.html
-    - text: "TBD"
-      href: TBD.html
+    - text: "Food"
+      href: Food.html
+    - text: "Health"
+      href: Health.html      
+    - text: "Legal"
+      href: Legal.html
+
 output:
   html_document:
     theme: cosmo
